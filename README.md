@@ -13,6 +13,7 @@ Tracker wpisów blogowych aplikacja.pl
 | Status | `opublikowany` / `w kolejce` |
 | Data publ. | Format YYYY-MM-DD |
 | Słów | Łączna liczba słów w artykule |
+| Znaki | Liczba znaków ze spacjami |
 | Nas. KW gł. (%) | Nasycenie głównego KW — patrz skala |
 | Nas. KW wsp. (%) | Nasycenie KW wspierających — patrz skala |
 | Uwagi | Rekomendacje i notatki |
